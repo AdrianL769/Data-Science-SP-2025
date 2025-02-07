@@ -1,0 +1,12 @@
+---
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+Pearson's product-moment correlation
+
+data: data$wt and data$cyl t = 2.3722, df = 4, p-value = 0.07664
+alternative hypothesis: true correlation is not equal to 0 95 percent
+confidence interval: -0.1239096 0.9726183 sample estimates: cor
+0.7645333
